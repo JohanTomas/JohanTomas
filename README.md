@@ -1,6 +1,6 @@
 <!-- Avatar gamer centrado -->
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/public_content/enc…1MDVhNWQ2NDIiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==" width="200" alt="JValerius avatar"/>
+  <img src="https://imgur.com/a/l0fQ7Xc" width="200" alt="JValerius avatar"/>
 </p>
 
 <h1 align="center">👾 ¡Hey! Soy <span style="color:#00FFAA">JValerius</span> 👾</h1>
