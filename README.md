@@ -1,6 +1,6 @@
 <!-- Avatar gamer centrado -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/59/12/35/59123558e06cdea1fe703053380ab87b.jpg" alt="Banner Gamer" width="100%" />
+  <img src="https://i.pinimg.com/736x/59/12/35/59123558e06cdea1fe703053380ab87b.jpg" alt="Banner Gamer" width="70%" />
 </p>
 
 <h1 align="center">👾 ¡Hey! Soy <span style="color:#00FFAA">JValerius</span> 👾</h1>
