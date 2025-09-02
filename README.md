@@ -52,6 +52,8 @@ desbloqueas habilidades con cada lenguaje, y los bugs… son los jefes finales."
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohanTomas&show_icons=true&theme=tokyonight" alt="stats"/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohanTomas&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
