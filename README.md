@@ -62,7 +62,7 @@ desbloqueas habilidades con cada lenguaje, y los bugs… son los jefes finales."
 ## 🕹️ Extra Power-ups
 <p align="center">
 🔥 Siempre subiendo de nivel en programación.<br>
-🎯 Metas: especializarme en <b>Backend + Cloud + IA</b>.<br>
+🎯 Metas: especializarme en <b>Full Stack Developer + Cloud + IA</b>.<br>
 ⚡ Bug Hunter de día, gamer de noche.
 </p>
 
